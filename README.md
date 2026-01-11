@@ -1,5 +1,9 @@
 # Drum Kit Sound Classification
 
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
+
 A machine learning project for classifying drum kit sounds using audio feature extraction and supervised/unsupervised learning techniques.
 
 ## What the Project Does
@@ -55,10 +59,10 @@ If you want to process raw audio files yourself, see the preprocessing notebook.
 
 This is a course project for the Machine Learning course at Athens University of Economics and Business (AUEB) Department of Informatics, Winter semester 2024-2025.
 
-For questions about the implementation or machine learning concepts, refer to the course materials or contact the instructor.
+For questions about the implementation refer to the maintainer of this project.
 
 ## Who Maintains and Contributes
 
-**Maintainer**: Georgios Abrampos (p3210001)
+**Maintainer**: George Avrabos (Phlorion)
 
 This project was developed as part of a university assignment. Contributions are welcome for educational purposes.
